@@ -1,6 +1,4 @@
-package object.immutable;
-
-import java.lang.reflect.Member;
+package object.immutable.address;
 
 public class MemberMainV1 {
     public static void main(String[] args) {

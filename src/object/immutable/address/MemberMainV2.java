@@ -1,4 +1,4 @@
-package object.immutable;
+package object.immutable.address;
 
 public class MemberMainV2 {
     public static void main(String[] args) {
